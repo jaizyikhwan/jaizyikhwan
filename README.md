@@ -1,11 +1,12 @@
+## Hi, I'm Muhammad Ikhwan Jaizy 👋
 
-## Hi, I'm Muhammad Ikhwan Jaizy! 👋
+**Fullstack Developer**
 
-Fullstack Developer building web & mobile apps from zero to production.
+Building **web & mobile apps** from zero to production 🚀  
 Turning ideas into real products.
 
 
- ### 💬 Get in touch!
- - Email: jaizyikhwan@gmail.com
- - Linkedin: [Muhammad Ikhwan Jaizy](https://linkedin.com/in/jaizyikhwan)
- - Instagram: [@jaizyikhwan](https://www.instagram.com/jaizyikhwan/)
+### 🔗 Get in touch
+- **Email**: jaizyikhwan@gmail.com  
+- **LinkedIn**: [Muhammad Ikhwan Jaizy](https://linkedin.com/in/jaizyikhwan)  
+- **Instagram**: [@jaizyikhwan](https://www.instagram.com/jaizyikhwan)
