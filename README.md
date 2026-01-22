@@ -1,7 +1,8 @@
 
 ## Hi, I'm Muhammad Ikhwan Jaizy! 👋
 
-A Software Engineering Technology student at Politeknik IDN Bogor, currently diving into Android app development with Kotlin. Passionate about building functional and responsive applications, I’m continually expanding my programming skills and exploring new challenges in software development.
+Fullstack Developer building web & mobile apps from zero to production.
+Turning ideas into real products.
 
 
  ### 💬 Get in touch!
